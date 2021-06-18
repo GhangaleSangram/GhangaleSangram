@@ -1,8 +1,8 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **TheProgrammerCaT <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** SangramGhangale ~  | [![Profile views](https://gpvc.arturio.dev/GhangaleSangram)](https://github.com/GhangaleSangram)
 
 
-- **SysAdmin and the Backend Developer of [Qani.store](https://qani.store)**
-- **a Blogger, read my blog here -> [pokurt.me](https://blog.pokurt.me)**
+- **SYS Admin and the Backend Developer of [Qani.store](https://qani.store)**
+- **A Blogger, read my blog here -> [sangram.me](https://www.instagram.com/sangram_ghangale/)**
 - **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
 - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org) and [Nim](https://nim-lang.org)**
@@ -48,8 +48,8 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-CustomIcon-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/CustomIcon)
-![Gmail Badge](https://img.shields.io/badge/-poki@pokurt.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poki@pokurt.me)
+![Telegram Badge](https://img.shields.io/badge/-CustomIcon-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sangramghangale)
+![Gmail Badge](https://img.shields.io/badge/-poki@pokurt.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/DeprecatedChat)
 
 
@@ -61,18 +61,18 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)](https://github.com/pokurt)
 
-![GitHub followers](https://img.shields.io/github/followers/pokurt?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/pokurt?affiliations=OWNER&color=aqua&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/GhangaleSangram?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/GhangaleSangram?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/pokurt?color=aqua&style=for-the-badge)
 
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokurt&show_icons=true&theme=radical&layout=compact)](https://github.com/pokurt)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhangaleSangram&show_icons=true&theme=radical&layout=compact)](https://github.com/GhangaleSangram)
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=GhangaleSangram&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💰 **Donations & Support**
@@ -115,7 +115,7 @@
 ## 📘 **My Latest Blog Posts:**
 <!--bp-->
 
-[📝 Programming is stupid](https://blog.pokurt.me/programming-is-stupid/)  
+[📝 Programming is stupid](https://www.instagram.com/sangram_ghangale/)  
 
 Before you move away, just think about it. For example you write a code that simply prints out `` Hello World `` and nothing else but you are stuck with that same code in your entire life, and then when you move forward to do something better but you are welcomed with
 
@@ -123,7 +123,7 @@ Before you move away, just think about it. For example you write a code that sim
 
 ---------------------
 
-[📝 Why I left Social Life...](https://blog.pokurt.me/why-i-left-social-media/)  
+[📝 Why I left Social Life...](https://www.instagram.com/sangram_ghangale/)  
 
 There is nothing much I can talk about this topic. Most of the reason why I left Facebook, Twitter, Instagram and Viber is because of my life events.
 
