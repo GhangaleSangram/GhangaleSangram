@@ -57,7 +57,7 @@
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
 
 
-##  🐙 **Github Stats**
+## ❤️ **Github Stats**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=GhangaleSangram&show_icons=true&theme=radical)](https://github.com/GhangaleSangram)
 
