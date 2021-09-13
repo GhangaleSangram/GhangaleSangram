@@ -50,7 +50,7 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-sangramghangaleofficial-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=)
 ![Gmail Badge](https://img.shields.io/badge/-sangramghangale@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40TheProgrammerCaT&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DTheProgrammerCaT&longCache=true%22)](https://t.me/GhangaleSangram)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40TheProgrammerCaT&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DTheProgrammerCaT&longCache=true%22)](https://t.me/Friends_Group_Chatting)
 
 
 ##  🎶 **Currently Playing**
